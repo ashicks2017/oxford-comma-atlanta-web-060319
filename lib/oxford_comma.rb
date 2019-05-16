@@ -5,6 +5,6 @@ if array.length[2]
   array.join("and")
   
 elsif array.index[3]
-  array.join(",") && array.shift("end")
+  array.join(",")  array.shift("end")
 
 end
