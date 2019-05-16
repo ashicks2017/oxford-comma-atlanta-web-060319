@@ -5,3 +5,4 @@ elsif array.length == 2
   array.join(" , ")
   array[-2].push("and")
 end
+end
